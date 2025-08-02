@@ -96,3 +96,12 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 plugins(... zsh-autosuggestions)
 ...
 ```
+
+### Extras
+
+Register nvm in zsh
+#### NodeJS (nvm)
+```shell
+...
+plugins(... nvm)
+...
